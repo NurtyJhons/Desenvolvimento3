@@ -1,0 +1,13 @@
+1°: 
+Caractere;
+Inteiro;
+Inteiro;
+Real;
+Caractere
+
+2° e 3°: 
+Nome = Caractere;
+CPF = Inteiro;
+RG = Inteiro;
+Altura = 1,78;
+Endereço = Caractere
